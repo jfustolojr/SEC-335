@@ -5,6 +5,10 @@
 [Host-Discovery](https://github.com/jfustolojr/SEC-335/wiki/Host-Discovery)
 
 [Nmap](https://github.com/jfustolojr/SEC-335/wiki/Nmap)
+
+[Reverse Shells](https://github.com/jfustolojr/SEC-335/wiki/Various-Reverse-Shells)
+
+[Weevely](https://github.com/jfustolojr/SEC-335/wiki/Weevely)
 ## Tech Journal
 [Home Page](https://github.com/jfustolojr/SEC-335/wiki)
 
