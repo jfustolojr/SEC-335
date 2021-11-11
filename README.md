@@ -14,4 +14,6 @@
 
 [Weekly Reflections](https://github.com/jfustolojr/SEC-335/wiki/SEC335-Weekly-Reflections)
 
-[First Active Attack: cupcake.shire.local](https://github.com/jfustolojr/SEC-335/wiki/Breaking-Into-Cupcake)
+[First Active Attack: cupcake.shire.local](https://github.com/jfustolojr/SEC-335/wiki/Attacking-Cupcake)
+
+[Independent Attack: gloin.shire.local](https://github.com/jfustolojr/SEC-335/wiki/Attacking-Gloin)
