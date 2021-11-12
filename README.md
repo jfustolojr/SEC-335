@@ -9,6 +9,8 @@
 [Reverse Shells](https://github.com/jfustolojr/SEC-335/wiki/Various-Reverse-Shells)
 
 [Weevely](https://github.com/jfustolojr/SEC-335/wiki/Weevely)
+
+[Permission Searching](https://github.com/jfustolojr/SEC-335/wiki/Searching-By-Permission)
 ## Tech Journal
 [Home Page](https://github.com/jfustolojr/SEC-335/wiki)
 
