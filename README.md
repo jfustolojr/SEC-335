@@ -11,6 +11,8 @@
 [Weevely](https://github.com/jfustolojr/SEC-335/wiki/Weevely)
 
 [Permission Searching](https://github.com/jfustolojr/SEC-335/wiki/Searching-By-Permission)
+
+[Metasploit](https://github.com/jfustolojr/SEC-335/wiki/Metasploit)
 ## Tech Journal
 [Home Page](https://github.com/jfustolojr/SEC-335/wiki)
 
