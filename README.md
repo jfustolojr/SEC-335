@@ -13,6 +13,8 @@
 [Permission Searching](https://github.com/jfustolojr/SEC-335/wiki/Searching-By-Permission)
 
 [Metasploit](https://github.com/jfustolojr/SEC-335/wiki/Metasploit)
+
+[Pivoting](https://github.com/jfustolojr/SEC-335/wiki/Pivoting)
 ## Tech Journal
 [Home Page](https://github.com/jfustolojr/SEC-335/wiki)
 
